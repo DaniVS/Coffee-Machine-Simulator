@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Objects_and_their_properties-What_is_my_age" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Objects and their properties/What is my age" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine Simulator with Java" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/What is my age">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/What is my age/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/What is my age/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Objects and their properties/What is my age/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="7dfecd67-f97b-4a51-be9e-765c5d6643d6" />
+  </component>
+</module>

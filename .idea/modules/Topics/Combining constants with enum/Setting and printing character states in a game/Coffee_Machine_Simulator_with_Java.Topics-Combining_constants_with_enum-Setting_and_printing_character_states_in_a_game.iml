@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Combining_constants_with_enum-Setting_and_printing_character_states_in_a_game" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Combining constants with enum/Setting and printing character states in a game" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine Simulator with Java" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Combining constants with enum/Setting and printing character states in a game">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Combining constants with enum/Setting and printing character states in a game/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Combining constants with enum/Setting and printing character states in a game/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Combining constants with enum/Setting and printing character states in a game/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="b80430aa-6a50-4520-9877-af1e1874d057" />
+  </component>
+</module>

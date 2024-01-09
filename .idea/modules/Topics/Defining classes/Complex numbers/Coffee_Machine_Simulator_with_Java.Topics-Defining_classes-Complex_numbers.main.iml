@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Defining_classes-Complex_numbers:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine Simulator with Java" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="temurin-17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="97f615ef-e486-4db8-a740-25b0aac8a481" />
+  </component>
+</module>

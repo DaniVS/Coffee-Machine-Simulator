@@ -1,0 +1,27 @@
+
+`
+java:S6208]"CMerge the previous cases into this one using comma-separated label.(õÚª8˜äÜúÎ1
+†
+java:S41657"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(¶ßĞüÿÿÿÿ8ÀäÜúÎ1
+T
+java:S25896"7Remove this expression which always evaluates to "true"(©ªÖ¹8ÀäÜúÎ1
+T
+java:S25896"7Remove this expression which always evaluates to "true"(©ªÖ¹8ÀäÜúÎ1
+G	java:S106"+Replace this use of System.out by a logger.(ı™ó²8ÆäÜúÎ1
+G	java:S106!"+Replace this use of System.out by a logger.(äË”Å8ÇäÜúÎ1
+L	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÇäÜúÎ1
+G	java:S106,"+Replace this use of System.out by a logger.(ı™ó²8ÈäÜúÎ1
+L	java:S106>"+Replace this use of System.out by a logger.(¤¹é€úÿÿÿÿ8ÊäÜúÎ1
+L	java:S106?"+Replace this use of System.out by a logger.(úÇ½Ñÿÿÿÿÿ8ÊäÜúÎ1
+L	java:S106@"+Replace this use of System.out by a logger.(Ò¶ö’ûÿÿÿÿ8ËäÜúÎ1
+L	java:S106A"+Replace this use of System.out by a logger.(›‰ï™şÿÿÿÿ8ËäÜúÎ1
+G	java:S106B"+Replace this use of System.out by a logger.(÷íğ­8ËäÜúÎ1
+L	java:S106C"+Replace this use of System.out by a logger.(×›¤—ûÿÿÿÿ8ÌäÜúÎ1
+L	java:S106D"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÌäÜúÎ1
+L	java:S106b"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÑäÜúÎ1
+z	java:S131}"YComplete cases by adding the missing enum constants or add a default case to this switch.(ë´åİşÿÿÿÿ8ÓäÜúÎ1
+M	java:S106"+Replace this use of System.out by a logger.(ˆÏÇŞıÿÿÿÿ8ØäÜúÎ1
+M	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÙäÜúÎ1
+G	java:S106º"+Replace this use of System.out by a logger.(‘»½8ÜäÜúÎ1
+M	java:S106»"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÜäÜúÎ1
+v	java:S131É"YComplete cases by adding the missing enum constants or add a default case to this switch.(û„Œ­8ääÜúÎ1

@@ -1,0 +1,13 @@
+custom_name: Method "main"
+content:
+  - Theory
+  - Fill in the code gaps for personalized greeting
+  - Invoking a greeting method within another method
+  - A strange declaration of the main method
+  - Running a program without main
+  - Who is the main
+  - Print  We are robots
+  - Different declarations
+  - No main args
+  - "Print  Hello, Java"
+  - Fixing errors in main

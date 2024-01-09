@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <pre><code class="java">printNumber((int)10);<br>printNumber(5.5);<br>printNumber("20");</code></pre>
+  - text: <pre><code class="java">printNumber(10);<br>printNumber(5.5);<br>printNumber(Integer.parseInt("20"));</code></pre>
+  - text: <pre><code class="java">printNumber(10f);<br>printNumber((double)5.5);<br>printNumber(Integer.parseInt("20"));</code></pre>
+  - text: <pre><code class="java">printNumber((double)10);<br>printNumber((int)5.5);<br>printNumber(20);</code></pre>
+  - text: <pre><code class="java">printNumber(10d);<br>printNumber(5.5f);<br>printNumber(Integer.parseInt(20));</code></pre>
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30882#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Check if an array contains two numbers" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine Simulator with Java" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Check if an array contains two numbers">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Check if an array contains two numbers/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Check if an array contains two numbers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Check if an array contains two numbers/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a9302aba-efb7-4d41-ac4a-2b9cca47f267" />
+  </component>
+</module>

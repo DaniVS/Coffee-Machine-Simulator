@@ -1,0 +1,39 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+          enum State {
+              // Your enum constants go here.
+          }
+      
+          static class Character {
+              State characterState;
+      
+              Character() {
+                  characterState = State.NORMAL;
+              }
+      
+              void selectState(int stateValue) {
+                  // Your switch statement goes here.
+              }
+      
+              void printCharacterState() {
+                  // Implement this function to print the character's state
+              }
+          }
+      
+          public static void main(String[] args) {
+              Character character = new Character();
+              //You can use selectState method here to assign a state to your character instance.
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41045#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 08 Jan 2024 19:42:12 UTC"
+record: -1
+submission_language: java17

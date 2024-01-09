@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Declaring_methods-Greatest_common_divisor:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Declaring methods/Greatest common divisor" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine Simulator with Java" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Declaring methods/Greatest common divisor/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Declaring methods/Greatest common divisor/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Declaring methods/Greatest common divisor/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="temurin-17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="7ef930b9-7069-44db-b776-e7563facd290" />
+  </component>
+</module>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Arrays_as_parameters-Calling_varargs" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Calling varargs" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Coffee Machine Simulator with Java" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Calling varargs">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Calling varargs/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Calling varargs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Calling varargs/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="ab95eef5-6da5-4060-92b2-9aa7c95cf0e6" />
+  </component>
+</module>
